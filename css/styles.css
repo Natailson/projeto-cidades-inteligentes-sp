@@ -1,0 +1,21 @@
+h1 {
+
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    text-align: center;
+    border: 1px black;
+}
+
+h2 {
+    color: rgb(0, 0, 0) (30, 0, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    background-color: rgb(138, 195, 246);
+}
+
+p {
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
